@@ -1,1 +1,1 @@
-echo "setup version on this based is:1.0.1-preview"
+echo
