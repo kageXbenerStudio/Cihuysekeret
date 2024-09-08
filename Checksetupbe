@@ -1,2 +1,5 @@
+echo "this server is available!"
+sleep 1.0
+echo "connect to setup!"
 cd resource
 sh main
